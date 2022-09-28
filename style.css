@@ -7,7 +7,9 @@ body {
     align-items: center;
     justify-content: center;
     background:#efc3e6;
+    margin: auto;
 }
+
 
 input{
     color: #fff;
